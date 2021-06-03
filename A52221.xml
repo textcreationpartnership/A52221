@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from the north. Or, a dialogue betwixt David Dammeeslash a souldier, and Walter Wheeler, a rich northerne farmer. Wherein is discoursed what injuries they did to the countrey farmers, and how they used to pillage; with the extreame joy the countrey men take at their disbanding.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52221</idno><idno type="EEBO-CITATION">99833466</idno>
+  <idno type="VID">37942</idno>
+  <idno type="EEBO-PROQUEST">2240939250</idno>
+  
+            <idno type="STC">Wing N1010</idno>
+            <idno type="STC">ESTC R222282</idno>
+            <idno type="PROQUEST">99833466</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833466e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1783:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from the north. Or, a dialogue betwixt David Dammeeslash a souldier, and Walter Wheeler, a rich northerne farmer. Wherein is discoursed what injuries they did to the countrey farmers, and how they used to pillage; with the extreame joy the countrey men take at their disbanding.</title>
+               </titleStmt>
+               <extent>[8] p.,   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[N.p. :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Great Britain. --  Army --  Pay, allownaces, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Pillage --  Early works to 1800.</term>
+               <term type="topical_term">Military offenses --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37942:1"/>
+            <p>Nevves from the North. <hi>OR,</hi> A DIALOGVE BETWIXT <hi>David Dammeeslash</hi> a Souldier, and <hi>Walter Wheeler,</hi> a rich Northerne Farmer.</p>
+            <p>
+               <hi>Wherein is</hi> Discoursed what injuries they did to the Countrey Farmers, and how they used to Pillage; with the extreame joy the Coun<g ref="char:EOLhyphen"/>trey men take at their disbanding.</p>
+            <figure>
+               <figDesc>woodcut of man on horse</figDesc>
+            </figure>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:37942:2"/>
+            <pb facs="tcp:37942:2"/>
+            <head>Newes from the North.</head>
+            <sp>
+               <speaker>Wheeler.</speaker>
+               <p>NOW Master <hi>Dammeeslash,</hi> you looke very dejected, me thinkes your countenance be<g ref="char:EOLhyphen"/>wraies some un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpected ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce or other late<g ref="char:EOLhyphen"/>ly hapned, what is it I pray? have you beene watching all night lost the enemies should breake in upon you? or have you beene building a Sconce, or making some munition to defend you from the thundring Ordi<g ref="char:EOLhyphen"/>nance planted on the Steeple? if any such unhappi<g ref="char:EOLhyphen"/>nesse as this hath befalne you, I can easily elevate your drooping thoughts with more joyfull tidings.</p>
+            </sp>
+            <sp>
+               <speaker>Dammee.</speaker>
+               <p>How's that Mr. <hi>Wheeler,</hi> can you give me any comfort? What is it? for heavens sake tell me, is pay day come? but why should I aske such an unseasonable question, when twenty daies, (pay daies I meane) are past since I received one crosse of my Captaine; has my Captaine received any mony lately? or does he intend to ransacke the inscrutable bagges of gouty Mr. <hi>Gripe,</hi> the forty i'th hundred man? or what other newes is it good Ma<g ref="char:EOLhyphen"/>ster <hi>Wheeler?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>All your minde my sonne of <hi>Mars</hi> is on sacke and pillage, but now you may leave off that trade if you please, for there's a Commission sent downe from London for your enlargement, you may now walke where you please without interruption,
+<pb facs="tcp:37942:3"/> unlesse Master Constable, the Stockes, or Whipping-post stand in your way.</p>
+            </sp>
+            <sp>
+               <speaker>Dammee.</speaker>
+               <p>And you are glad of these tydings, are you? you believe now that your hens may walke safely and none bee borrowed, none shall hereafter come limping home, who have miraculously escaped our clutches, which hapned seldome, unlesse we were overloaden; your Geese may graze securely, and not be continually confin'd to their pens, your Ducks, Turkies, and all other Poultry may encrease and mul<g ref="char:EOLhyphen"/>tiply like the Sisters of St. Antholines.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>For my part I have not any to encrease at all, (thankes to your ragged Regiment) but since I heard of this good newes, I intend to revive my stock, my harmelesse sheepe I hope now may rest securely in their folds and not be afraid of the night wolves, nor I in the morning be constrained to use the Art of Subtraction, 25. being taken out of 80. to know I have fifty five onely remaining: beleeve me Master <hi>Dammeeslash</hi> your disease was more infectious to them then the rot, my hogs may now (with your leave) walke abroad all day, and retire at night to their lodg<g ref="char:EOLhyphen"/>ings, whereas before your company was so mercilesse that (although they were sent on Canterburies embas<g ref="char:EOLhyphen"/>sie) they would not spare the Parsons tyth Pigge, but it must goe into the number, my Calves were no soo<g ref="char:EOLhyphen"/>ner ten dayes old, but one of your noble order long'd for it, marry my Kine themselves you have made bold with too; but I beseech you Sir without offence to your feather, may I aske you a question, had you any Butchers among you to dresse your meat?</p>
+            </sp>
+            <sp>
+               <speaker>Dammee.</speaker>
+               <p>Butchers? yes, enow, of every Artificers Trade we had some, but especially of Shoomakers and Taylors, whom you might easily distinguish from
+<pb facs="tcp:37942:3"/> the rest. The Shoomakers were they that contrary to their Charter, were drunke two dayes a weeke, be<g ref="char:EOLhyphen"/>sides Sunday and Munday, and the Taylors were they that eat so much hot Bread and Butter, they were no great drunkards, and the reason why so many Knights of the Needle turn'd souldiers, was because there was not roome enough in Blackefryers for the French men of that trade; but me thinkes you should rather bee sorry then rejoyce at the losse of so good company, we were ever sociable, wee could not en-endure that you should want company on a Sunday at dinner.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>That's true indeed Sir, you came both Sun<g ref="char:EOLhyphen"/>day and Munday many times, but it was before you were sent for, I did not take any great delight in your pleasant society, good I am sure you never did mee any, unlesse by keeping my meat from stinking, or by ridding me of the loud clamors my wife would whis<g ref="char:EOLhyphen"/>per into my eares, for I could never have her compa<g ref="char:EOLhyphen"/>ny so long as you or your ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and ravenous Copart<g ref="char:EOLhyphen"/>ners had any occasion to use her, I durst not gainesay it, unlesse I had a mind to have my throat cut, or my house puld about my eares, my maids and daughters were more serviceable to you then to their Father and Master; therfore I pray what reason have I to be sorry for your departure?</p>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <p>Why, had your wife ever such service done her from your weake backe as she had from us, your daughters too, puling fooles, how did they looke be<g ref="char:EOLhyphen"/>fore we tooke them in hand? how they were troubled with the greene sicknesse, and lov'd no diet, but lime, chalke, and oatmeale, before they were our pati<g ref="char:EOLhyphen"/>ents, wee prescribed them wholsome pils that tooke off that feminine disease, they I warrant them
+<pb facs="tcp:37942:4"/> grieve that wee must leave them.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>Yes and good cause they have, for you have left testimonies of your love to them; our Country will scarce be able to preserve your bastards, sure never was Country so pestred with a rout of rogues; I pray thee tell me, what good did you ever dome or any Countrey man?</p>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <p>Why thou forgetfull fellow, how may shillings have we sav'd thee that thou wouldest have spent in reaping thy oates, and mowing thy grasse? have not wee sent thee a whole troope of horses into fields to save thee that labour? have not we eas'd thy maids that were loaden with the reapers victualls, and rather then the poore maid should bee troubled to car<g ref="char:EOLhyphen"/>ry it any further, eate it our selves?</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>You have indeed, you have beene very li<g ref="char:EOLhyphen"/>berall of such kind of curtesies as you speake of: Tru<g ref="char:EOLhyphen"/>ly Sir you have sav'd me both the labour and charge of reaping either oates or any corne else; your light horses would with much dexterity vault over my hedges, &amp; would not spoile so much of my long grasse in eating as in treading it; I and the rest of my neigh<g ref="char:EOLhyphen"/>bours have received so many of these favours that we are utterly undone; wee shall s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve you a l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bour in helping us the next yeare, for we have no corne to sow, thinkes to your curteous usage: besides, this is one other of your charitable deeds (if I be not mista<g ref="char:EOLhyphen"/>ken) you would not thinke much to borrow a paire of cleane sheets off the hedge, and forget to bring them home againe; or to exchange a sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt, which though if were farre richer then mine both in colour and qua<g ref="char:EOLhyphen"/>lity, yet I assure you, there was little faire dealing in it; many of you were good huswiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s too, you could <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forsooth, and a million <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore of such
+<pb facs="tcp:37942:4"/> favours have you done me, and I am sure my neighbours have fair'd no better then my selfe.</p>
+               <p>But now Gentleman with faire leaves you must depart from hence to the place you came from, and except you can mend your manners from thence to Tiburne, the commissiion for your disbanding is comming, therefore your trading here is spoi<g ref="char:EOLhyphen"/>led, it is your best course to thinke of your old trade at London.</p>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <p>Nay, but doe you speake seriously? what then will become of me? I see I must fall to the old course of life againe.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>I pray good Mr. <hi>Dammislash,</hi> what course was it you tooke before we had your company here? surely you were well employed.</p>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <p>Truly I had many waies to live, but never affected any so well as this course of life: sometimes I was in service, I lived with that notorious whore Mistris <hi>Clayton</hi> that lies in the middle of Fetterlane, there I was her chiefe gentleman usher, and many times upon occasion her hackster; when I was gentle<g ref="char:EOLhyphen"/>man at large and out of service, I hunted bowling al<g ref="char:EOLhyphen"/>lies, and lived much upon the rooke there, and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny times at nine pins in Lincolns Innefields, &amp; for varie<g ref="char:EOLhyphen"/>ty sake, at Pigeon holes on the backe side of West<g ref="char:EOLhyphen"/>minster, and in the Terme time, all forenoone I wal<g ref="char:EOLhyphen"/>ked Westminster Hall, and in a great crowd when I had occasion to feele for mony, should mistake a Countriemans wide pocket for my owne; I have had a hundred of these waies to live by, which I must too againe.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>But what if these trades all faile; what course will you take then?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:37942:5"/>
+               <speaker>Dam.</speaker>
+               <p>Simple fellow, I have so many trades it is unpossible they all should faile, but if it happen they doe, I can at the worst turne ballad singer, which I am inform'd is at this present a very thriving trade.</p>
+            </sp>
+            <sp>
+               <speaker>Wheel.</speaker>
+               <p>Well, seeing 'tis certaine you must leave us, in hope I shall never be troubled with thee nor any of thy profession againe, Ile give thee a dinner.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37942:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
